@@ -1,0 +1,6 @@
+{
+  "name": "Apex USG Reporting System",
+  "description": "Real-time AI-assisted ultrasound reporting system developed by Abhisek.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

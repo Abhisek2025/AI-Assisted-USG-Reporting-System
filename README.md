@@ -230,6 +230,75 @@ Run the linter to verify TypeScript types and syntax:
 ```bash
 npm run lint
 ```
+# 📸 Project Overview
+
+Explore the key modules and interfaces of the **AI-Assisted USG Reporting System**.
+
+| 🏠 Home Dashboard | 👨‍⚕️ Patient Management |
+|------------------|-------------------------|
+| <img src="https://github.com/user-attachments/assets/98462944-e73c-4525-92be-af116e29ba8f" width="100%"> | <img src="https://github.com/user-attachments/assets/0a74040b-6936-40cf-b71c-6700e3c838dd" width="100%"> |
+
+| 📄 Report Management | 🖼️ USG Image Upload |
+|----------------------|---------------------|
+| <img src="https://github.com/user-attachments/assets/7dfc6de6-18ad-4f4c-b4d6-e8a0cdafc64b" width="100%"> | <img src="https://github.com/user-attachments/assets/c246ea10-a203-463c-9d35-b40be30f39d6" width="100%"> |
+
+| 📊 Reports Dashboard | 📋 Report History |
+|---------------------|-------------------|
+| <img src="https://github.com/user-attachments/assets/f7236b8e-ea80-460d-b609-a0875fc0ab04" width="100%"> | <img src="https://github.com/user-attachments/assets/79f25f84-dc64-4b28-b02e-c994bd74f29c" width="100%"> |
+
+---
+
+# 🔐 Admin Dashboard
+
+Manage users, monitor reports, and oversee the complete workflow from a centralized administrative panel.
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/855842c9-4f47-4003-8609-711d07a6cf12" width="95%">
+</p>
+
+---
+
+# 🔥 Firebase Integration
+
+Secure cloud storage, authentication, and real-time data synchronization powered by Firebase.
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/278be9de-6988-4602-8b02-8e1c10b2c218" width="95%">
+</p>
+
+---
+
+# 🤖 AI Analysis Report
+
+Automatically generate intelligent ultrasound report suggestions using Google Gemini AI.
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/50e63b88-9b0f-4365-8ba7-944c4154c583" width="95%">
+</p>
+
+---
+
+## ✨ Key Highlights
+
+- 🧠 AI-Assisted Ultrasound Report Generation
+- 👨‍⚕️ Patient & Radiologist Management
+- 📤 USG Image Upload & Analysis
+- 📋 Report Generation & History
+- 🔐 JWT Authentication & Role-Based Access
+- 🔥 Firebase Cloud Integration
+- 📊 Interactive Admin Dashboard
+- 📱 Responsive UI with React & Tailwind CSS
+- ⚡ RESTful APIs using Node.js & Express.js
+- 🗄️ MySQL Database Integration
+
+
+
+
+
+
+
+
+
 
 ---
 
